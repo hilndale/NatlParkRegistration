@@ -18,7 +18,7 @@ Installation: Clone repo to your local machine using $ git clone https://github.
 
 Authors (pair-programming):
 Debbie Murphy (debmurphinohio)
-Hilary Sasso-Schleh
+
 
 
 
